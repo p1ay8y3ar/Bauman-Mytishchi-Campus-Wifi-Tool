@@ -1,0 +1,22 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.cfg
+*.spec
+*.qrc
+dist
+build
+
+#project 
+/venv/
+/tmp/
+/logs/*
+/dist/
+/build/
+/.idea/
+
+#mac
+.DS_Store
+
