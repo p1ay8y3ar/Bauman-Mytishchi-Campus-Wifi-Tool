@@ -14,8 +14,10 @@ just beause every 2 hours the network will logout ,is soooooo Annoying
 - macos
 
 ## download from release
+download from [release](https://github.com/p1ay8y3ar/Bauman-Mytishchi-Campus-Wifi-Tool/releases) site .
+
 just double click and run it
-the deafult username is mop,you can use you own account
+the deafult username is mop,you can use you own account.
 
 # pics
 
